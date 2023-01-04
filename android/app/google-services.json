@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504568430971",
+    "project_id": "gege-a426e",
+    "storage_bucket": "gege-a426e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504568430971:android:f3a1e0aad92ce73dda7dde",
+        "android_client_info": {
+          "package_name": "com.example.gege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504568430971-bgmi8u4e8tv3eh170e2bhuftj72htmj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLD_EJBKU6G2TooiToVuXn77HcNA_EOVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504568430971-bgmi8u4e8tv3eh170e2bhuftj72htmj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
