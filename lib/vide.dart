@@ -33,7 +33,7 @@ class _videState extends State<vide> {
         ],
         backgroundColor: Colors.blue.shade600,
         elevation: 4,
-        title: const Text('Video Viewer'),
+        title: const Text('Kovid Sharma'),
         centerTitle: true,
         titleTextStyle: const TextStyle(
           fontSize: 22,
